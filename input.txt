@@ -1,0 +1,7 @@
+total 44
+-rw-rw-r-- 1 alice alice     0 Thg 1 20 18:21 input.txt
+-rw-rw-r-- 1 alice alice    43 Thg 1 19 22:17 Makefile
+-rwxrwxr-x 1 alice alice 13320 Thg 1 20 18:15 shell
+-rw-rw-r-- 1 alice alice  4413 Thg 1 20 18:15 shell.c
+-rwxrwxr-x 1 alice alice  8440 Thg 1 20 18:08 test
+-rw-rw-r-- 1 alice alice   393 Thg 1 20 18:08 test.c
